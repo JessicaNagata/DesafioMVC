@@ -32,5 +32,4 @@ A aplicação é capaz de:
 - [GFT MIlhas](https://www.figma.com/file/GINfv81cq9IdIjUjOCiied/MVC---GRUPO-1?node-id=0%3A1)
 
 ## Projetos
-- Enviamos um projeto total, o que DE FATO é a entrega: projeto_mvc_grupo 
-- Enviamos um projeto não finalizado com algumas partes a mais: projeto-nao-finalizado, apenas para visualização de até onde chegamos
+- Desenvolvemos duas versões, uma básica que contempla os CRUDS seguindo o padrão de arquitetura MVC, e uma segunda versão, que ainda está em desenvolvimento, que contempla as demais funcionalidades requisitadas, incluindo Exceeds.
